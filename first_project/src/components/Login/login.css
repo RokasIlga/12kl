@@ -1,0 +1,25 @@
+.loginBox {
+    margin-top: 20px;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    width: 25%;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#forgotPassword{
+    margin-top: -50px;
+    background-color: transparent;
+    border: none;
+    color: #007bff;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 40%;
+}
+#rocket-image {
+    height: 27.5vh;
+}
